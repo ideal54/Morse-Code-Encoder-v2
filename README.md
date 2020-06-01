@@ -1,6 +1,6 @@
 # Morse-Code-Encoder-v2
 
-This is my latest v2 Morse Encoder which is a significant improvement on my original v1 Morse Encoder.
+This is my latest v2 Morse Encoder which is a significant improvement on my original v1 Morse Encoder. For full project details go to http://vk2idl.xyz . I have left my v1 Morse Encoder on github for reference but I recommend using this version instead.
 
 My original Morse Encoder project brief was to create a device that allowed Morse Code to be sent by typing text on a keyboard rather than using a Morse key. It was initially targeting those who were new to Morse Code or who were no longer as proficient as they once were. Hardware inputs were also provided to allow a manual key and a Morse Paddle to be connected, but they were added as secondary option to using the keyboard.
 
@@ -13,4 +13,3 @@ The new software changes highlighted a limitation within my original code. I had
 Currently the encoder can send Morse code at speeds of 6 to 30 wpm (set by the rotary control) using either a Morse Paddle or a straight Morse key, or via a keyboard using the Arduino IDE. When using the Paddle, the dit/dah timing is automatic based on the setting of the rotary Morse Speed control. The Morse speed limits can be adjusted in the software.
 
 The completed unit is powered through the USB socket on the Arduino Nano.
-For full project details go to http://vk2idl.xyz
