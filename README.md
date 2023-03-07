@@ -2,7 +2,7 @@
 
 UPDATE version 2.2 | March 7, 2023
 Fine tuned the code to better format text on the LCD and PC screen.
-1. Print a space on the LCD to seperate text everytime the <Enter> key is pressed on the keyboard.
+1. Print a space on the LCD to seperate text everytime the Enter key is pressed on the keyboard.
 2. Removed the code that automatically (and unnecessarily) printed a CR/LF on the PC screen whenever a period (.) was printed.
 
 UPDATE Version 2.1 | March 6, 2023
